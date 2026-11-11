@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Men Leather Jacket",
+    "price": 120,
+    "soluong": 45,
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "name": "Classic Denim Jeans",
+    "price": 65,
+    "soluong": 80,
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "name": "Cotton White T-Shirt",
+    "price": 25,
+    "soluong": 150,
+    "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "name": "Floral Summer Dress",
+    "price": 85,
+    "soluong": 30,
+    "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "name": "Slim Fit Oxford Shirt",
+    "price": 55,
+    "soluong": 60,
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=500&auto=format&fit=crop&q=60"
+  }
+]

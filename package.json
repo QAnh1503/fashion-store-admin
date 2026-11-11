@@ -1,0 +1,22 @@
+{
+  "name": "fashion-store-app",
+  "version": "1.0.0",
+  "description": "Fashion Store Management - Fullstack Node.js Backend & React Native Expo Frontend",
+  "scripts": {
+    "backend": "npm --prefix backend start",
+    "backend:dev": "npm --prefix backend run dev",
+    "seed": "npm --prefix backend run seed",
+    "frontend": "npm --prefix frontend start",
+    "frontend:web": "npm --prefix frontend run web"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "react-native",
+    "expo",
+    "fashion-store"
+  ],
+  "author": "",
+  "license": "ISC"
+}

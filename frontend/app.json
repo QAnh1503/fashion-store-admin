@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Fashion Store Admin",
+    "slug": "fashion-store-admin",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}

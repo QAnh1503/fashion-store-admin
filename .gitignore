@@ -1,0 +1,11 @@
+node_modules/
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+
+# Bổ sung thêm cho Expo & Build
+.expo/
+dist/
+web-build/
